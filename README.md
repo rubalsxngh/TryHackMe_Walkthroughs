@@ -9,7 +9,10 @@ This repository is designed to help beginners and intermediate users understand 
 ## Contents
 
 - [RootMe](https://github.com/rubalsxngh/TryHackMe_Walkthroughs/blob/master/RootMe.md): An easy difficulty CTF challenge that involves exploiting a file upload vulnerability to gain a reverse shell and performing privilege escalation on an executable Python binary.
-  
-  More walkthroughs will be added soon!
+
+- [SimpleCTF](https://github.com/rubalsxngh/TryHackMe_Walkthroughs/blob/master/SimpleCTF.md): An easy CTF challenge on TryHackMe, features an FTP anonymous login misconfiguration allowing unauthorized access without credentials. Exploited this to gain an FTP shell, discovered user mitch's file, executed SSH bruteforce, and achieved privilege escalation via vim.
+
+
+More walkthroughs will be added soon!
 
 
