@@ -12,6 +12,7 @@ This repository is designed to help beginners and intermediate users understand 
 
 - [SimpleCTF](https://github.com/rubalsxngh/TryHackMe_Walkthroughs/blob/master/SimpleCTF.md): An easy CTF challenge on TryHackMe, features an FTP anonymous login misconfiguration allowing unauthorized access without credentials. Exploited this to gain an FTP shell, discovered user mitch's file, executed SSH bruteforce, and achieved privilege escalation via vim.
 
+- [Intermediate_Nmap](https://github.com/rubalsxngh/TryHackMe_Walkthroughs/blob/master/Intermediate_nmap.md): An easy difficulty CTF challenge on TryHackMe. This machine require nmap, netcat skills to gain the machine login username and password further ssh to capture the flag.
 
 More walkthroughs will be added soon!
 
