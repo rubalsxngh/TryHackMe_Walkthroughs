@@ -14,6 +14,8 @@ This repository is designed to help beginners and intermediate users understand 
 
 - [Intermediate_Nmap](https://github.com/rubalsxngh/TryHackMe_Walkthroughs/blob/master/Intermediate_Nmap.md): An easy difficulty CTF challenge on TryHackMe. This machine require nmap, netcat skills to gain the machine login username and password further ssh to capture the flag.
 
+- [Blue](https://github.com/rubalsxngh/TryHackMe_Walkthroughs/blob/master/Blue.md): An easy difficulty walkthrough on TryHackMe. This machine suffers with EternalBlue which allows attacker to run arbitrary code on remote machine targetting SMB service running on port 445. When exploited, EternalBlue gives command shell that can be converted into meterpreter shell.
+
 More walkthroughs will be added soon!
 
 
